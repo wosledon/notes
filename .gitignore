@@ -1,0 +1,20 @@
+# Obsidian workspace settings
+.obsidian/
+
+# Obsidian cache files
+.obsidian/workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+
+# Log files
+*.log
+
+# Temporary files
+*.temp
